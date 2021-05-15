@@ -13,8 +13,14 @@ https://soundcloud.com/atyilmaz/hard-shit
 04. "Low Rider"
 https://soundcloud.com/atyilmaz/low-rider
 
+05. "Horny Mystery"
+https://soundcloud.com/atyilmaz/horny-mystery
+
 #
    made with:
 
 1. sonic-pi:
 https://sonic-pi.net
+
+2. external samples of Sonatina Symphonic Orchestra:
+https://github.com/peastman/sso

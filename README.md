@@ -2,19 +2,19 @@ recordings of the code:
 #
 
 01. "Starving Looper"
-https://soundcloud.com/atyilmaz/starving-looper
+https://www.ampled.com/artist/streamerd/post/2011
 
 02. "Lunar Discovery"
-https://soundcloud.com/atyilmaz/lunar-discovery
+https://www.ampled.com/artist/streamerd/post/2014
 
 03. "Hard Shit"
-https://soundcloud.com/atyilmaz/hard-shit
+https://www.ampled.com/artist/streamerd/post/2016
 
 04. "Low Rider"
-https://soundcloud.com/atyilmaz/low-rider
+https://www.ampled.com/artist/streamerd/post/2013
 
 05. "Horny Mystery"
-https://soundcloud.com/atyilmaz/horny-mystery
+https://www.ampled.com/artist/streamerd/post/2015
 
 06. "Rainy Day Pianos"
 https://www.ampled.com/artist/streamerd/post/2051
@@ -25,5 +25,6 @@ https://www.ampled.com/artist/streamerd/post/2051
 1. sonic-pi:
 https://sonic-pi.net
 
-2. external samples of Sonatina Symphonic Orchestra:
+2. Instrumental samples from Sonatina Symphonic Orchestra 
 https://github.com/peastman/sso
+(replace their paths with your local files):

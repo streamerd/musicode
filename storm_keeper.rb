@@ -44,7 +44,7 @@ end
 
 live_loop :crunchy do
   sleep 24
-  sync ::intro_bass
+  sync :intro_bass
   sample horns, "horn-e2", amp: a_high_amp
   sleep 2
   sample horns, "horn-g2", amp: a_high_amp

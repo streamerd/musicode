@@ -144,8 +144,10 @@ for a collectively evolving and branching song scenario.
 thinking of creating this `inter-versions/ multi-staking` phenomenon, in time.
 
 so NFTs of those new versions will be published in LocalZines project as well.
+checkout the repo and there's also link to a slide:
 
-checkItOut and link to a slide, describing that, to umbrella project:https://stateful.art.
+https://github.com/stateful-art/local-zines
+
 
 participants in $genre DAOs will be able initiate new branches around new samples, request new connection to other genres and whatnot.
 

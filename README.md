@@ -1,5 +1,8 @@
-recordings of the code reside on ampled.com
-this is my profile there: 
+coding and recordings made with https://sonic-pi.net
+
+basically, if you copy-paste song code and run on sonic-pi you installed on your machine, you'll hear them right away. 
+
+recordings of the code reside @
 https://www.ampled.com/artist/streamerd
 
 so far, these are part of the learning and sometimes, going totally experimental and throwing some tunes and configurations.
@@ -54,11 +57,10 @@ a_high_amp = high_amps.shuffle.first
 live_loop :crunchy do
   sleep 24
   sync :intro_bass
-  sample horns, "horn-e2", amp: a_high_amp```
+  sample horns, "horn-e2", amp: a_high_amp
+  ```
 
 applied a random selection of amplifiers, from low and highs somehow to add some generative flavour.
-
-https://sonic-pi.net
 
 #
 

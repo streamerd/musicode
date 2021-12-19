@@ -1,4 +1,64 @@
-recordings of the code:
+recordings of the code reside on ampled.com
+this is my profile there: 
+https://www.ampled.com/artist/streamerd
+
+so far, these are part of the learning and sometimes, going totally experimental and throwing some tunes and configurations.
+
+at the 7th piece, ```storm keeper```, also used a simpl randomisation on amp values. just check ruby-lang for that.
+to the end of the file, you'll notice that those amp and sleep times are generated and used as ```a_low_amp``` and ```a_low_amp``` from those arrays.
+
+`simply, anything goes`. 
+
+good news. reading data from nature sounds like a good idea to start soon. 
+I want plants and animals all around and even in remotes, have a voice and acknowledgement in our lives and cities. 
+
+awared and bewared, by nature, through art. 
+
+I am quite excited to see them being decisive on how and whether or not devices displaying NFTs will be turned on/off or switch in moods, make some noise or go silent @ galleries or open spaces, wherever they are sound and visible; as in reality.
+
+we have to let them speak up! 
+
+human rights is what we push forward and scale in the world, yet we have to do this in non-anthropocentric way, without going all solely human-centered either.
+
+listen to this song maybe:
+Moondog - Enough about human rights
+https://www.youtube.com/watch?v=-dLPsw3i_P8
+
+with using stats available online first, and then directly from identified plants in real world; 
+
+in fact to realise there is no nature and outside-of-nature kind of situation.
+it is the way we are living or not, in a natural and way, with really organic connections.
+
+long story on that, this is an open call for collabs as well.
+
+as https://stateful.art, will join to Sovereign Nature Initiative's hackathon with Odyssey @ Feb 4-6, 2022.
+
+https://sovereignnature.com/projects/odyssey2022
+
+
+
+``` low_amps = [0, 0.1, 0.2, 0.4, 0.6, 0.8]
+high_amps = [1, 1.2, 1.4, 1.6, 1.8, 2]
+
+# define sleep times
+low_sleep_times = [0, 0.1, 0.2, 0.4, 0.6, 0.8]
+high_sleep_times = [1, 1.2, 1.4, 1.6, 1.8, 2]
+
+##| live_loop :pia do
+#define a random high and low amper value
+a_low_amp = low_amps.shuffle.first
+a_high_amp = high_amps.shuffle.first
+
+....
+
+live_loop :crunchy do
+  sleep 24
+  sync :intro_bass
+  sample horns, "horn-e2", amp: a_high_amp```
+
+applied a random selection of amplifiers, from low and highs somehow to add some generative flavour.
+
+https://sonic-pi.net
 
 #
 
@@ -19,13 +79,12 @@ recordings of the code:
 
 6.  "Rainy Day Pianos"
     https://www.ampled.com/artist/streamerd/post/2051
+    
+7. "Storm Keeper"
+    https://www.ampled.com/artist/streamerd/post/2154
 
-7.  "Stranging Things"
-    /ll be recorded and published before 2022
-
-so far, all made with sonic-pi synthesizer:
-
-https://sonic-pi.net
+8.  "Stranging Things"
+    stays as code for now /ll be recorded and published before 2022
 
 
 in addition to sonic-pi's standard sample library used in the first loops, instrumental samples from `Sonatina Symphonic Orchestra`, there as well:

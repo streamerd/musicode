@@ -18,7 +18,7 @@ end
 
 live_loop :now do
   sleep 6
-  sample pianos, "piano-f-c7", amp: 1
+  sample pianos, "piano-f-c7", amp: 1.2
 end
 
 

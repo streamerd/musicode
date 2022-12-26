@@ -12,12 +12,12 @@ live_loop :pia do
 end
 
 live_loop :no do
-  sleep 2
+  sleep 4
   sample pianos, "piano-f-c6", amp: 0.8
 end
 
 live_loop :now do
-  sleep 4
+  sleep 6
   sample pianos, "piano-f-c7", amp: 1
 end
 

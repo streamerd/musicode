@@ -7,7 +7,7 @@ live_loop :pia do
   sample pianos, "piano-f-a1", amp: 2
   sleep 1
   sample pianos, "piano-f-a3", amp: 2, attack: 0.5
-  sleep 1
+  sleep 3
   
 end
 

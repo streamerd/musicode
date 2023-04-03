@@ -1,39 +1,4 @@
-coding and recordings made with https://sonic-pi.net
-
-basically, if you copy-paste song code and run on sonic-pi you installed on your machine, you'll hear them right away. 
-
-recordings of the code reside @
-https://www.ampled.com/artist/streamerd
-
-so far, these are part of the learning and sometimes, going totally experimental and throwing some tunes and configurations.
-
-at the 7th piece, ```storm keeper```, also used a simpl randomisation on amp values. just check ruby-lang for that.
-to the end of the file, you'll notice that those amp and sleep times are generated and used as ```a_low_amp``` and ```a_low_amp``` from those arrays.
-
-`simply, anything goes`. 
-
-
-``` low_amps = [0, 0.1, 0.2, 0.4, 0.6, 0.8]
-high_amps = [1, 1.2, 1.4, 1.6, 1.8, 2]
-
-# define sleep times
-low_sleep_times = [0, 0.1, 0.2, 0.4, 0.6, 0.8]
-high_sleep_times = [1, 1.2, 1.4, 1.6, 1.8, 2]
-
-##| live_loop :pia do
-#define a random high and low amper value
-a_low_amp = low_amps.shuffle.first
-a_high_amp = high_amps.shuffle.first
-
-....
-
-live_loop :crunchy do
-  sleep 24
-  sync :intro_bass
-  sample horns, "horn-e2", amp: a_high_amp
-  ```
-
-applied a random selection of amplifiers, from low and highs somehow to add some generative flavour.
+recordings of the code:
 
 #
 
@@ -54,12 +19,13 @@ applied a random selection of amplifiers, from low and highs somehow to add some
 
 6.  "Rainy Day Pianos"
     https://www.ampled.com/artist/streamerd/post/2051
-    
-7. "Storm Keeper"
-    https://www.ampled.com/artist/streamerd/post/2154
 
-8.  "Stranging Things"
-    stays as code for now /ll be recorded and published before 2022
+7.  "Rhythmic Surrender"
+    https://www.ampled.com/artist/streamerd/post/3778
+
+so far, all made with sonic-pi synthesizer:
+
+https://sonic-pi.net
 
 
 in addition to sonic-pi's standard sample library used in the first loops, instrumental samples from `Sonatina Symphonic Orchestra`, there as well:
@@ -99,5 +65,10 @@ bassClarinets = "< absolute path to bassClarinets folder>"
 
 
 
-in real world, there is no wall between players and instruments. let's reflect that soon by changing this division as well.
+`if you'd like to collaborate, feel free contact me. `
+
+
+
+
+
 

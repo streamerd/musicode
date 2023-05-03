@@ -23,6 +23,9 @@ recordings of the code:
 7.  "Rhythmic Surrender"
     https://www.ampled.com/artist/streamerd/post/3778
 
+8.  "Zero-sum Fame"
+    https://www.ampled.com/artist/streamerd/post/3872
+
 so far, all made with sonic-pi synthesizer:
 
 https://sonic-pi.net

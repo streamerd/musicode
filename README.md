@@ -3,28 +3,28 @@ recordings of the code:
 #
 
 1.  "Starving Looper"
-    https://www.ampled.com/artist/streamerd/post/2011
+    https://audius.co/streamerd_/low-rider-431870
 
 2.  "Lunar Discovery"
-    https://www.ampled.com/artist/streamerd/post/2014
+    https://audius.co/streamerd_/lunar-discovery-431869
 
 3.  "Hard Shit"
-    https://www.ampled.com/artist/streamerd/post/2016
+    https://audius.co/streamerd_/hard-shit-431872
 
 4.  "Low Rider"
-    https://www.ampled.com/artist/streamerd/post/2013
+    https://audius.co/streamerd_/low-rider-431870
 
 5.  "Horny Mystery"
-    https://www.ampled.com/artist/streamerd/post/2015
+    https://audius.co/streamerd_/horny-mystery-431871
 
 6.  "Rainy Day Pianos"
-    https://www.ampled.com/artist/streamerd/post/2051
+    https://audius.co/streamerd_/rainy-day-pianos
 
 7.  "Rhythmic Surrender"
-    https://www.ampled.com/artist/streamerd/post/3778
+    https://audius.co/streamerd_/rhythmic-surrender
 
 8.  "Zero-sum Fame"
-    https://www.ampled.com/artist/streamerd/post/3872
+    https://audius.co/streamerd_/zero-sum-fame
 
 so far, all made with sonic-pi synthesizer:
 

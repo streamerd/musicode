@@ -26,6 +26,8 @@ recordings of the code:
 8.  "Zero-sum Fame"
     https://audius.co/streamerd_/zero-sum-fame
 
+9.  "Knight Wider"
+    https://audius.co/streamerd_/knight-wider
 so far, all made with sonic-pi synthesizer:
 
 https://sonic-pi.net
